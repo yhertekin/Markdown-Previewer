@@ -1,0 +1,32 @@
+.preview {
+	background-color: white;
+	width: 600px;
+	border-radius: 10px;
+	height: 90vh;
+}
+
+.previewText {
+	padding: 20px;
+	margin-top: -20px;
+}
+
+.previewText h1 {
+	color: rgb(226, 68, 68);
+}
+.previewText h2 {
+	color: rgb(233, 141, 141);
+}
+
+.previewText h3 {
+	color: rgb(224, 178, 178);
+}
+
+.previewText ul {
+	color: rgb(39, 62, 163);
+}
+
+.previewText a {
+	color: rgb(49, 167, 45);
+	text-decoration: none;
+	font-weight: bold;
+}
