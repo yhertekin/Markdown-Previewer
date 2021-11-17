@@ -1,4 +1,4 @@
-# Markdown Previewer - [Live](yhertekin-markdown-previewer.surge.sh)
+# Markdown Previewer - [Live](https://yhertekin-markdown-previewer.surge.sh/)
 
 Markdown previewer with colorful html output.
 
