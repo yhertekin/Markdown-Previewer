@@ -2,6 +2,7 @@
 body {
 	font-family: "Comfortaa";
 	background-color: blueviolet;
+	background-repeat: no-repeat;
 	display: flex;
 	justify-content: center;
 }

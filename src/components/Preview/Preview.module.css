@@ -8,17 +8,26 @@
 .previewText {
 	padding: 20px;
 	margin-top: -20px;
+	width: 550px;
+	word-wrap: break-word;
+	white-space: initial;
 }
 
 .previewText h1 {
 	color: rgb(226, 68, 68);
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgb(226, 68, 68);
 }
 .previewText h2 {
 	color: rgb(233, 141, 141);
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgb(233, 141, 141);
 }
 
 .previewText h3 {
 	color: rgb(224, 178, 178);
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgb(224, 178, 178);
 }
 
 .previewText ul {
