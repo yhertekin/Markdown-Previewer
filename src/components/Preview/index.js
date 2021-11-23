@@ -7,10 +7,10 @@ const Preview = () => {
 	const { markedText } = useMarkdown();
 	return (
 		<div className={style.preview}>
-			<p
+			<div
 				className={style.previewText}
 				dangerouslySetInnerHTML={{ __html: markedText }}
-			></p>
+			></div>
 		</div>
 	);
 };

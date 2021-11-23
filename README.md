@@ -6,6 +6,10 @@ Markdown previewer with colorful html output.
 
 ![desktop picture of app](./pics/desktop.PNG)
 
+## Mobile
+
+![desktop picture of app](./pics/mobile.png)
+
 ## Available Scripts
 
 In the project directory, you can run:

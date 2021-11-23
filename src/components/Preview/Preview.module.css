@@ -1,16 +1,17 @@
 .preview {
-	background-color: white;
-	width: 600px;
+	background-color: rgb(241, 241, 241);
+	grid-column: 2;
+	width: 40vw;
 	border-radius: 10px;
-	height: 90vh;
+	height: 87vh;
+	padding: 20px;
 }
 
 .previewText {
-	padding: 20px;
-	margin-top: -20px;
-	width: 550px;
+	width: 100%;
 	word-wrap: break-word;
-	white-space: initial;
+	height: 100%;
+	overflow-y: scroll;
 }
 
 .previewText h1 {
@@ -38,4 +39,16 @@
 	color: rgb(49, 167, 45);
 	text-decoration: none;
 	font-weight: bold;
+}
+.preview blockquote {
+	background-color: rgb(231, 229, 229);
+	border-radius: 10px;
+	padding: 1em;
+}
+
+@media (max-width: 800px) {
+	.preview {
+		width: 80vw;
+		height: 40vh;
+	}
 }
